@@ -23,6 +23,10 @@
 </a>
 </p>
 
+<div align="center" style="background-color: black;">
+    <img src="https://camo.githubusercontent.com/2bfa46753cedcb15a45cef893f56788349fe2ce3cfab2340ffa718358042b44e/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578626a63336258686c634735704d6a6868635442684d585135595739354e6d397159324a7863446b34643268315a58677a4d6e55325a695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f31334749416c34523231594c67512f67697068792e676966" alt="Cyberpunk GIF" width="400"/>
+</div>
+
 <h3 align="left" style="color: white; background-color: black;">Languages and Tools:</h3>
 <p align="left" style="background-color: black;"> 
     <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
