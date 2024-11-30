@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Usman</h1>
-<h3 align="center">Abdullah here! I’m an Python Developer with a passion for solving real-world problems through technology. I enjoy working on machine learning projects, building intelligent applications, and learning about the latest developments in artificial intelligence..</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah-usman&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-usman" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullah-usman" alt="abdullah-usman" /></a> </p>
+<h3 align="center">Abdullah here! I’m a Python Developer with a passion for solving real-world problems through technology. I enjoy working on machine learning projects, building intelligent applications, and learning about the latest developments in artificial intelligence.</h3>
 
 - • 💡 Interests: **deep learning, computer vision, and AI-driven solutions.**
 
@@ -11,7 +7,11 @@
 
 - • 🌱 Currently learning: **advanced NLP techniques and AI model optimization.**
 
-- • 🔭 Working on: **Chat bot.**
+- • 🔭 Working on: **ChatGPT.**
+
+<div align="center">
+    <img src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" alt="Coding GIF" width="400"/>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
