@@ -32,55 +32,55 @@
 <h3>Technologies:</h3>
 <table style="width: 100%; border-collapse: collapse; font-size: 18px; text-align: center;">
   <tr style="background-color: #4CAF50; color: white;">
-    <th style="padding: 15px;">Category</th>
-    <th style="padding: 15px;">Technologies</th>
+    <th style="padding: 20px; width: 40%;">Category</th>
+    <th style="padding: 20px; width: 60%;">Technologies</th>
   </tr>
   <tr style="background-color: #f2f2f2;">
-    <td style="padding: 20px; border: 1px solid #ddd;">Programming Languages</td>
-    <td style="padding: 20px; border: 1px solid #ddd; background-color: #f9f9f9;"> 
+    <td style="padding: 25px; border: 1px solid #ddd;">Programming Languages</td>
+    <td style="padding: 25px; border: 1px solid #ddd; background-color: #eaf1ff;"> 
       <span style="color: #306998; font-weight: bold;">Python</span>, 
       <span style="color: #F7DF1E; font-weight: bold;">JavaScript</span>
     </td>
   </tr>
   <tr>
-    <td style="padding: 20px; border: 1px solid #ddd;">Web Development</td>
-    <td style="padding: 20px; border: 1px solid #ddd;">Flask, React, Bootstrap, Django</td>
+    <td style="padding: 25px; border: 1px solid #ddd;">Web Development</td>
+    <td style="padding: 25px; border: 1px solid #ddd;">Flask, React, Bootstrap, Django</td>
   </tr>
   <tr style="background-color: #f2f2f2;">
-    <td style="padding: 20px; border: 1px solid #ddd;">Databases</td>
-    <td style="padding: 20px; border: 1px solid #ddd;">MySQL, MongoDB</td>
+    <td style="padding: 25px; border: 1px solid #ddd;">Databases</td>
+    <td style="padding: 25px; border: 1px solid #ddd;">MySQL, MongoDB</td>
   </tr>
   <tr>
-    <td style="padding: 20px; border: 1px solid #ddd;">AI/ML Frameworks</td>
-    <td style="padding: 20px; border: 1px solid #ddd;">TensorFlow, PyTorch, Keras, Scikit-learn</td>
+    <td style="padding: 25px; border: 1px solid #ddd;">AI/ML Frameworks</td>
+    <td style="padding: 25px; border: 1px solid #ddd;">TensorFlow, PyTorch, Keras, Scikit-learn</td>
   </tr>
   <tr style="background-color: #f2f2f2;">
-    <td style="padding: 20px; border: 1px solid #ddd;">Deep Learning</td>
-    <td style="padding: 20px; border: 1px solid #ddd;">OpenCV, Caffe</td>
+    <td style="padding: 25px; border: 1px solid #ddd;">Deep Learning</td>
+    <td style="padding: 25px; border: 1px solid #ddd;">OpenCV, Caffe</td>
   </tr>
   <tr>
-    <td style="padding: 20px; border: 1px solid #ddd;">Data Science</td>
-    <td style="padding: 20px; border: 1px solid #ddd;">NumPy, Pandas</td>
+    <td style="padding: 25px; border: 1px solid #ddd;">Data Science</td>
+    <td style="padding: 25px; border: 1px solid #ddd;">NumPy, Pandas</td>
   </tr>
   <tr style="background-color: #f2f2f2;">
-    <td style="padding: 20px; border: 1px solid #ddd;">Visualization</td>
-    <td style="padding: 20px; border: 1px solid #ddd;">Matplotlib, Seaborn</td>
+    <td style="padding: 25px; border: 1px solid #ddd;">Visualization</td>
+    <td style="padding: 25px; border: 1px solid #ddd;">Matplotlib, Seaborn</td>
   </tr>
   <tr>
-    <td style="padding: 20px; border: 1px solid #ddd;">NLP</td>
-    <td style="padding: 20px; border: 1px solid #ddd;">NLTK, SpaCy, Hugging Face</td>
+    <td style="padding: 25px; border: 1px solid #ddd;">NLP</td>
+    <td style="padding: 25px; border: 1px solid #ddd;">NLTK, SpaCy, Hugging Face</td>
   </tr>
   <tr style="background-color: #f2f2f2;">
-    <td style="padding: 20px; border: 1px solid #ddd;">Reinforcement Learning</td>
-    <td style="padding: 20px; border: 1px solid #ddd;">OpenAI Gym, Stable Baselines</td>
+    <td style="padding: 25px; border: 1px solid #ddd;">Reinforcement Learning</td>
+    <td style="padding: 25px; border: 1px solid #ddd;">OpenAI Gym, Stable Baselines</td>
   </tr>
   <tr>
-    <td style="padding: 20px; border: 1px solid #ddd;">Cloud & DevOps</td>
-    <td style="padding: 20px; border: 1px solid #ddd;">Docker, Kubernetes</td>
+    <td style="padding: 25px; border: 1px solid #ddd;">Cloud & DevOps</td>
+    <td style="padding: 25px; border: 1px solid #ddd;">Docker, Kubernetes</td>
   </tr>
   <tr style="background-color: #f2f2f2;">
-    <td style="padding: 20px; border: 1px solid #ddd;">Tools</td>
-    <td style="padding: 20px; border: 1px solid #ddd;">Jupyter, VS Code, Git</td>
+    <td style="padding: 25px; border: 1px solid #ddd;">Tools</td>
+    <td style="padding: 25px; border: 1px solid #ddd;">Jupyter, VS Code, Git</td>
   </tr>
 </table>
 
@@ -99,4 +99,3 @@
 </a>
 
 <hr style="border: 0.5px solid black; margin: 20px 0;">
-
