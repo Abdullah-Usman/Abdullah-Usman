@@ -30,54 +30,57 @@
 <img src="https://camo.githubusercontent.com/2bfa46753cedcb15a45cef893f56788349fe2ce3cfab2340ffa718358042b44e/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578626a63336258686c634735704d6a6868635442684d585135595739354e6d397159324a7863446b34643268315a58677a4d6e55325a695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f31334749416c34523231594c67512f67697068792e676966" alt="Cyberpunk GIF" width="400"/>
 
 <h3>Technologies:</h3>
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
-    <th style="border: 1px solid #ddd; padding: 8px; text-align: left;">Category</th>
-    <th style="border: 1px solid #ddd; padding: 8px; text-align: left;">Technologies</th>
+<table style="width: 100%; border-collapse: collapse; font-size: 18px; text-align: center;">
+  <tr style="background-color: #4CAF50; color: white;">
+    <th style="padding: 15px;">Category</th>
+    <th style="padding: 15px;">Technologies</th>
+  </tr>
+  <tr style="background-color: #f2f2f2;">
+    <td style="padding: 20px; border: 1px solid #ddd;">Programming Languages</td>
+    <td style="padding: 20px; border: 1px solid #ddd; background-color: #f9f9f9;"> 
+      <span style="color: #306998; font-weight: bold;">Python</span>, 
+      <span style="color: #F7DF1E; font-weight: bold;">JavaScript</span>
+    </td>
   </tr>
   <tr>
-    <td style="border: 1px solid #ddd; padding: 8px;">Programming Languages</td>
-    <td style="border: 1px solid #ddd; padding: 8px;">Python, JavaScript</td>
+    <td style="padding: 20px; border: 1px solid #ddd;">Web Development</td>
+    <td style="padding: 20px; border: 1px solid #ddd;">Flask, React, Bootstrap, Django</td>
+  </tr>
+  <tr style="background-color: #f2f2f2;">
+    <td style="padding: 20px; border: 1px solid #ddd;">Databases</td>
+    <td style="padding: 20px; border: 1px solid #ddd;">MySQL, MongoDB</td>
   </tr>
   <tr>
-    <td style="border: 1px solid #ddd; padding: 8px;">Web Development</td>
-    <td style="border: 1px solid #ddd; padding: 8px;">Flask, React, Bootstrap, Django</td>
+    <td style="padding: 20px; border: 1px solid #ddd;">AI/ML Frameworks</td>
+    <td style="padding: 20px; border: 1px solid #ddd;">TensorFlow, PyTorch, Keras, Scikit-learn</td>
+  </tr>
+  <tr style="background-color: #f2f2f2;">
+    <td style="padding: 20px; border: 1px solid #ddd;">Deep Learning</td>
+    <td style="padding: 20px; border: 1px solid #ddd;">OpenCV, Caffe</td>
   </tr>
   <tr>
-    <td style="border: 1px solid #ddd; padding: 8px;">Databases</td>
-    <td style="border: 1px solid #ddd; padding: 8px;">MySQL, MongoDB</td>
+    <td style="padding: 20px; border: 1px solid #ddd;">Data Science</td>
+    <td style="padding: 20px; border: 1px solid #ddd;">NumPy, Pandas</td>
+  </tr>
+  <tr style="background-color: #f2f2f2;">
+    <td style="padding: 20px; border: 1px solid #ddd;">Visualization</td>
+    <td style="padding: 20px; border: 1px solid #ddd;">Matplotlib, Seaborn</td>
   </tr>
   <tr>
-    <td style="border: 1px solid #ddd; padding: 8px;">AI/ML Frameworks</td>
-    <td style="border: 1px solid #ddd; padding: 8px;">TensorFlow, PyTorch, Keras, Scikit-learn</td>
+    <td style="padding: 20px; border: 1px solid #ddd;">NLP</td>
+    <td style="padding: 20px; border: 1px solid #ddd;">NLTK, SpaCy, Hugging Face</td>
+  </tr>
+  <tr style="background-color: #f2f2f2;">
+    <td style="padding: 20px; border: 1px solid #ddd;">Reinforcement Learning</td>
+    <td style="padding: 20px; border: 1px solid #ddd;">OpenAI Gym, Stable Baselines</td>
   </tr>
   <tr>
-    <td style="border: 1px solid #ddd; padding: 8px;">Deep Learning</td>
-    <td style="border: 1px solid #ddd; padding: 8px;">OpenCV, Caffe</td>
+    <td style="padding: 20px; border: 1px solid #ddd;">Cloud & DevOps</td>
+    <td style="padding: 20px; border: 1px solid #ddd;">Docker, Kubernetes</td>
   </tr>
-  <tr>
-    <td style="border: 1px solid #ddd; padding: 8px;">Data Science</td>
-    <td style="border: 1px solid #ddd; padding: 8px;">NumPy, Pandas</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ddd; padding: 8px;">Visualization</td>
-    <td style="border: 1px solid #ddd; padding: 8px;">Matplotlib, Seaborn</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ddd; padding: 8px;">NLP</td>
-    <td style="border: 1px solid #ddd; padding: 8px;">NLTK, SpaCy, Hugging Face</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ddd; padding: 8px;">Reinforcement Learning</td>
-    <td style="border: 1px solid #ddd; padding: 8px;">OpenAI Gym, Stable Baselines</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ddd; padding: 8px;">Cloud & DevOps</td>
-    <td style="border: 1px solid #ddd; padding: 8px;">Docker, Kubernetes</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ddd; padding: 8px;">Tools</td>
-    <td style="border: 1px solid #ddd; padding: 8px;">Jupyter, VS Code, Git</td>
+  <tr style="background-color: #f2f2f2;">
+    <td style="padding: 20px; border: 1px solid #ddd;">Tools</td>
+    <td style="padding: 20px; border: 1px solid #ddd;">Jupyter, VS Code, Git</td>
   </tr>
 </table>
 
