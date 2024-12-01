@@ -13,8 +13,8 @@
     <img src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" alt="Coding GIF" width="400"/>
 </div>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3>Connect with me:</h3>
+<p align="left">
 <a href="https://linkedin.com/in/abdullah-usman" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-usman" height="30" width="40" />
 </a>
@@ -27,8 +27,8 @@
     <img src="https://camo.githubusercontent.com/2bfa46753cedcb15a45cef893f56788349fe2ce3cfab2340ffa718358042b44e/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578626a63336258686c634735704d6a6868635442684d585135595739354e6d397159324a7863446b34643268315a58677a4d6e55325a695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f31334749416c34523231594c67512f67697068792e676966" alt="Cyberpunk GIF" width="400"/>
 </div>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
+<h3>Languages and Tools:</h3>
+<p align="left"> 
     <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
         <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
     </a> 
@@ -50,21 +50,21 @@
     <img src="https://camo.githubusercontent.com/c9db199fcd1709006805510e2f8c18c43b8860ef8fdf11fc6ffe8f790ab8decd/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578644846364e476c6c4d6a413464576478656e526862446335646e4e764d6e646d5a58427161577072616a5a336332747462474e3364795a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f3236746e333361695469316a6b6c3648362f67697068792e676966" alt="Coding Setup GIF" width="400"/>
 </div>
 
-<div align="center">
+<h3>My Stats:</h3>
+<p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah-usman&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
-</div>
-
-<div align="center">
+</p>
+<p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=abdullah-usman&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</div>
-
-<div align="center">
+</p>
+<p align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-usman&theme=radical" alt="GitHub Streak Stats" />
-</div>
+</p>
 
 <h3>Hacktoberfest Badges:</h3>
-<div>
+<div align="center">
     <a href="https://holopin.me/abdullahusman">
-        <img src="https://holopin.me/abdullahusman" alt="Hacktoberfest Badges" width="400"/>
+        <img src="https://holopin.me/abdullahusman" alt="Hacktoberfest Badges" width="100%" />
     </a>
 </div>
+
