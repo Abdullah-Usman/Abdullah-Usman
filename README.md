@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Abdullah Usman</h1>
-<h3 style="font-size: 14px; font-weight: normal;">
+<h3 style="font-size: 10px; font-weight: normal;">
     Abdullah here! I’m a Python Developer with a passion for solving real-world problems through technology. 
     I enjoy working on machine learning projects, building intelligent applications, and learning about the 
     latest developments in artificial intelligence.
