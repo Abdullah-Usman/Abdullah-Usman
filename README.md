@@ -1,4 +1,4 @@
-You said:
+
 <h1>Hi 👋, I'm Abdullah Usman</h1>
 <h3 style="font-size: 16px; font-weight: normal;">
     Abdullah here! I’m a Python Developer with a passion for solving real-world problems through technology. 
