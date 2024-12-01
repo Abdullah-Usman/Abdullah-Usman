@@ -30,6 +30,7 @@
 
 <h3>Languages and Tools:</h3>
 <p>
+    <hr style="border: 0.5px solid black; margin: 20px 0;">
     <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
         <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40" />
     </a>
@@ -46,9 +47,6 @@
         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" />
     </a>
 </p>
-
-<!-- Horizontal line -->
-<hr style="border: 0.5px solid black; margin: 20px 0;">
 
 <img src="https://camo.githubusercontent.com/c9db199fcd1709006805510e2f8c18c43b8860ef8fdf11fc6ffe8f790ab8decd/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578644846364e476c6c4d6a413464576478656e526862446335646e4e764d6e646d5a58427161577072616a5a336332747462474e3364795a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f3236746e333361695469316a6b6c3648362f67697068792e676966" alt="Coding Setup GIF" width="400"/>
 
