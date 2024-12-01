@@ -5,13 +5,13 @@
     latest developments in artificial intelligence.
 </h3>
 
-- • 💡 Interests: **deep learning, computer vision, and AI-driven solutions.**
+-  💡 Interests: **deep learning, computer vision, and AI-driven solutions.**
 
-- • 📫 Reach me at: **abdullahusman134@gmail.com.**
+-  📫 Reach me at: **abdullahusman134@gmail.com.**
 
-- • 🌱 Currently learning: **advanced NLP techniques and AI model optimization.**
+-  🌱 Currently learning: **advanced python.**
 
-- • 🔭 Working on: **ChatGPT.**
+-  🔭 Working on: **Chat bot.**
 
 <img src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" alt="Coding GIF" width="400"/>
 
