@@ -17,7 +17,7 @@
 
 <h3>Connect with me:</h3>
 <p>
-    <hr style="border: 0.5px solid black; margin: 20px 0;">
+    <hr style="border: 0.5px solid black; margin: 10px 0;">
     <a href="https://linkedin.com/in/abdullah-usman" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-usman" height="30" width="40" />
     </a>
