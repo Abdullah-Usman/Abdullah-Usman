@@ -1,17 +1,18 @@
-<h1 style="text-align: center; color: #4CAF50;">sman</h1>
-<h3 style="font-size: 16px; font-weight: normal; text-align: center;">
+You said:
+<h1>Hi 👋, I'm Abdullah Usman</h1>
+<h3 style="font-size: 16px; font-weight: normal;">
     Abdullah here! I’m a Python Developer with a passion for solving real-world problems through technology. 
     I enjoy working on machine learning projects, building intelligent applications, and learning about the 
     latest developments in artificial intelligence.
 </h3>
 
-<!-- Interests Section -->
-<ul>
-    <li>💡 Interests: <strong>deep learning, computer vision, and AI-driven solutions.</strong></li>
-    <li>📫 Reach me at: <strong>abdullahusman134@gmail.com.</strong></li>
-    <li>🌱 Currently learning: <strong>advanced python.</strong></li>
-    <li>🔭 Working on: <strong>Chat bot.</strong></li>
-</ul>
+-  💡 Interests: **deep learning, computer vision, and AI-driven solutions.**
+
+-  📫 Reach me at: **abdullahusman134@gmail.com.**
+
+-  🌱 Currently learning: **advanced python.**
+
+-  🔭 Working on: **Chat bot.**
 
 <img src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" alt="Coding GIF" width="400"/>
 
@@ -56,8 +57,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=abdullah-usman&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-usman&theme=radical" alt="GitHub Streak Stats" />
 
-<!-- Quote of the Day Section -->
 <h3>Quote of the Day:</h3>
+<hr style="border: 0.5px solid black; margin: 20px 0;">
 <p style="font-style: italic; background-color: #f4f4f4; border-left: 4px solid #0078D7; padding: 10px;">
     "The best way to predict the future is to invent it." – Alan Kay
 </p>
