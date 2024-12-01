@@ -25,65 +25,31 @@
     </a>
 </p>
 
+<!-- Horizontal line -->
 <hr style="border: 0.5px solid black; margin: 20px 0;">
 
 <img src="https://camo.githubusercontent.com/2bfa46753cedcb15a45cef893f56788349fe2ce3cfab2340ffa718358042b44e/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578626a63336258686c634735704d6a6868635442684d585135595739354e6d397159324a7863446b34643268315a58677a4d6e55325a695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f31334749416c34523231594c67512f67697068792e676966" alt="Cyberpunk GIF" width="400"/>
 
-<h3>Technologies:</h3>
-<table style="width: 100%; border-collapse: collapse; font-size: 18px; text-align: center;">
-  <tr style="background-color: #4CAF50; color: white;">
-    <th style="padding: 20px; width: 40%;">Category</th>
-    <th style="padding: 20px; width: 60%;">Technologies</th>
-  </tr>
-  <tr style="background-color: #f2f2f2;">
-    <td style="padding: 25px; border: 1px solid #ddd;">Programming Languages</td>
-    <td style="padding: 25px; border: 1px solid #ddd; background-color: #eaf1ff;"> 
-      <span style="color: #306998; font-weight: bold;">Python</span>, 
-      <span style="color: #F7DF1E; font-weight: bold;">JavaScript</span>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 25px; border: 1px solid #ddd;">Web Development</td>
-    <td style="padding: 25px; border: 1px solid #ddd;">Flask, React, Bootstrap, Django</td>
-  </tr>
-  <tr style="background-color: #f2f2f2;">
-    <td style="padding: 25px; border: 1px solid #ddd;">Databases</td>
-    <td style="padding: 25px; border: 1px solid #ddd;">MySQL, MongoDB</td>
-  </tr>
-  <tr>
-    <td style="padding: 25px; border: 1px solid #ddd;">AI/ML Frameworks</td>
-    <td style="padding: 25px; border: 1px solid #ddd;">TensorFlow, PyTorch, Keras, Scikit-learn</td>
-  </tr>
-  <tr style="background-color: #f2f2f2;">
-    <td style="padding: 25px; border: 1px solid #ddd;">Deep Learning</td>
-    <td style="padding: 25px; border: 1px solid #ddd;">OpenCV, Caffe</td>
-  </tr>
-  <tr>
-    <td style="padding: 25px; border: 1px solid #ddd;">Data Science</td>
-    <td style="padding: 25px; border: 1px solid #ddd;">NumPy, Pandas</td>
-  </tr>
-  <tr style="background-color: #f2f2f2;">
-    <td style="padding: 25px; border: 1px solid #ddd;">Visualization</td>
-    <td style="padding: 25px; border: 1px solid #ddd;">Matplotlib, Seaborn</td>
-  </tr>
-  <tr>
-    <td style="padding: 25px; border: 1px solid #ddd;">NLP</td>
-    <td style="padding: 25px; border: 1px solid #ddd;">NLTK, SpaCy, Hugging Face</td>
-  </tr>
-  <tr style="background-color: #f2f2f2;">
-    <td style="padding: 25px; border: 1px solid #ddd;">Reinforcement Learning</td>
-    <td style="padding: 25px; border: 1px solid #ddd;">OpenAI Gym, Stable Baselines</td>
-  </tr>
-  <tr>
-    <td style="padding: 25px; border: 1px solid #ddd;">Cloud & DevOps</td>
-    <td style="padding: 25px; border: 1px solid #ddd;">Docker, Kubernetes</td>
-  </tr>
-  <tr style="background-color: #f2f2f2;">
-    <td style="padding: 25px; border: 1px solid #ddd;">Tools</td>
-    <td style="padding: 25px; border: 1px solid #ddd;">Jupyter, VS Code, Git</td>
-  </tr>
-</table>
+<h3>Languages and Tools:</h3>
+<p>
+    <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+        <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40" />
+    </a>
+    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" />
+    </a>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
+    </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+    </a>
+    <a href="https://unity.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" />
+    </a>
+</p>
 
+<!-- Horizontal line -->
 <hr style="border: 0.5px solid black; margin: 20px 0;">
 
 <img src="https://camo.githubusercontent.com/c9db199fcd1709006805510e2f8c18c43b8860ef8fdf11fc6ffe8f790ab8decd/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578644846364e476c6c4d6a413464576478656e526862446335646e4e764d6e646d5a58427161577072616a5a336332747462474e3364795a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f3236746e333361695469316a6b6c3648362f67697068792e676966" alt="Coding Setup GIF" width="400"/>
@@ -98,4 +64,5 @@
     <img src="https://holopin.me/abdullahusman" alt="Hacktoberfest Badges" style="width: 100%;" />
 </a>
 
+<!-- Horizontal line -->
 <hr style="border: 0.5px solid black; margin: 20px 0;">
